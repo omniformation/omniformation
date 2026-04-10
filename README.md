@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello there Dear visitor 😊✨
 
-<!--
-**omniformation/omniformation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Please, _stay a while and listen_ 🕯️
 
-Here are some ideas to get you started:
+Things I currently enjoy more than I should: Systems Design, Design Patterns, API Design and Consumation, Fullstack Solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technologies I am proficient with:
+
+Frontend Technologies: React, Typescript, Redux, HTML, CSS.
+Backend Technologies: Java, Kotlin, Spring Boot, Javalin, Python, Jupyter notebooks, FastAPI, SQL.
+Tools,Ecosystems og Methodologies: Git, Docker, REST APIs, CI/CD, Azure DevOps, AWS, Agile, Scrum.
+
+If you have the time, please take a look at a few of my public projects.
+
+Have a great day 😊👋.
