@@ -5,7 +5,7 @@ Please, _stay a while and listen_ 🕯️
 Things I currently enjoy more than I should:
 
 - Systems Design, Interaction and Patterns.
-- API Design and Consumation.
+- Design and Consumption of Rest APIs and Websocket APIs.
 - Fresh Air 😉.
 
 Technologies I am proficient with:
