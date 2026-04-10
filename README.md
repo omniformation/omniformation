@@ -19,7 +19,7 @@ Technologies I am proficient with:
 
 **Cloud and Infrastructure**: _Docker, AWS._
 
-**Testing**:_JUnit 5, Spring Boot Test, Testcontainers, WebTestClient, Mockito, AssertJ, Jest_
+**Testing**: _JUnit 5, Spring Boot Test, Testcontainers, WebTestClient, Mockito, AssertJ, Jest_
 
 If you have the time, please take a look at a few of my public projects.
 
