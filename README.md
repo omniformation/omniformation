@@ -2,15 +2,21 @@
 
 Please, _stay a while and listen_ 🕯️
 
-Things I currently enjoy more than I should: Systems Design, Design Patterns, API Design and Consumation, Fullstack Solutions.
+Things I currently enjoy more than I should:
 
-Technologies I am proficient with:
+-Systems Design 
+-Design Patterns
+-API Design and Consumation
+-Fullstack Solutions
+-Fresh Air 😉
 
-**Frontend Technologies**: React, Typescript, Redux, HTML, CSS.
+**Technologies I am proficient with**:
 
-**Backend Technologies**: Java, Kotlin, Spring Boot, Javalin, Python, Jupyter notebooks, FastAPI, SQL.
+*Frontend Technologies*: React, Typescript, Redux, HTML, CSS.
 
-**Tools,Ecosystems og Methodologies**: Git, Docker, REST APIs, CI/CD, Azure DevOps, AWS, Agile, Scrum.
+*Backend Technologies*: Java, Kotlin, Spring Boot, Javalin, Python, Jupyter notebooks, FastAPI, SQL.
+
+*Tools, Ecosystems and Methodologies*: Git, Docker, REST APIs, CI/CD, Azure DevOps, AWS, Agile, Scrum.
 
 If you have the time, please take a look at a few of my public projects.
 
