@@ -12,7 +12,9 @@ Technologies I am proficient with:
 
 **Frontend Technologies**: _React, Typescript, Redux, HTML, CSS._
 
-**Backend Technologies**: _Java, Kotlin, Spring Boot, Javalin, Python, Jupyter notebooks, FastAPI, SQL._
+**Backend Technologies**: _Java, Kotlin, Spring Boot, Javalin, Python, FastAPI, SQL._
+
+**Data Presentation and Analysis Tools**: _Jupyter notebooks._
 
 **DevOps and Collaboration**: _Jira(Agile and Scrum), GitHub Actions(CI/CD), GitHub. Also have experience with Azure DevOps._
 
