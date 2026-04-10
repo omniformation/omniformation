@@ -1,4 +1,4 @@
-## Hello there dear visitor!
+## Hello there, Dear visitor 😊✨
 
 Please, _stay a while and listen_ 🕯️
 
