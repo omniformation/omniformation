@@ -4,11 +4,11 @@ Please, _stay a while and listen_ 🕯️
 
 Things I currently enjoy more than I should:
 
--Systems Design 
--Design Patterns
--API Design and Consumation
--Fullstack Solutions
--Fresh Air 😉
+- Systems Design 
+- Design Patterns
+- API Design and Consumation
+- Fullstack Solutions
+- Fresh Air 😉
 
 **Technologies I am proficient with**:
 
