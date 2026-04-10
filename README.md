@@ -15,9 +15,11 @@ Technologies I am proficient with:
 
 **Backend Technologies**: _Java, Kotlin, Spring Boot, Javalin, Python, Jupyter notebooks, FastAPI, SQL._
 
-**DevOps Toolchain**: _Jira(for Agile and Scrum), GitHub Actions(for CI/CD), GitHub(for version control). Also have experience with Azure DevOps._
+**DevOps and Collaboration**: _Jira(Agile and Scrum), GitHub Actions(CI/CD), GitHub. Also have experience with Azure DevOps._
 
-**Tools and Ecosystems**: _Docker, AWS._
+**Cloud and Infrastructure**: _Docker, AWS._
+
+**Testing**:_JUnit 5, Spring Boot Test, Testcontainers, WebTestClient, Mockito, AssertJ, Jest_
 
 If you have the time, please take a look at a few of my public projects.
 
