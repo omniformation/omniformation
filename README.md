@@ -10,7 +10,7 @@ Things I currently enjoy more than I should:
 - Fullstack Solutions
 - Fresh Air 😉
 
-**Technologies I am proficient with**:
+☀️Technologies I am proficient with☀️:
 
 **Frontend Technologies**: React, Typescript, Redux, HTML, CSS.
 
