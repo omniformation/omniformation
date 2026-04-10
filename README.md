@@ -9,7 +9,7 @@ Things I currently enjoy more than I should:
 - API Design and Consumation
 - Fresh Air 😉
 
-Technologies I have experience with:
+Technologies I am proficient with:
 
 **Frontend Technologies**: _React, Typescript, Redux, HTML, CSS._
 
