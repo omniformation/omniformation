@@ -1,4 +1,4 @@
-## Hello there dear visitor 😊✨
+## Hello there dear visitor!
 
 Please, _stay a while and listen_ 🕯️
 
@@ -10,7 +10,7 @@ Things I currently enjoy more than I should:
 - Fullstack Solutions
 - Fresh Air 😉
 
-☀️Technologies I am proficient with☀️:
+_Technologies I am proficient with_:
 
 **Frontend Technologies**: React, Typescript, Redux, HTML, CSS.
 
