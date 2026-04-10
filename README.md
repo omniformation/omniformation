@@ -2,7 +2,7 @@
 
 Please, _stay a while and listen_ 🕯️
 
-Things I currently enjoy more than I should: <u>Systems Design</u>, <u>Design Patterns</u>, <u>API Design and Consumation</u>, <u>Fullstack Solutions</u>.
+Things I currently enjoy more than I should: Systems Design, Design Patterns, API Design and Consumation, Fullstack Solutions.
 
 Technologies I am proficient with:
 
