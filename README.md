@@ -1,4 +1,4 @@
-## Hello there Dear visitor 😊✨
+## Hello there dear visitor 😊✨
 
 Please, _stay a while and listen_ 🕯️
 
@@ -12,11 +12,11 @@ Things I currently enjoy more than I should:
 
 **Technologies I am proficient with**:
 
-*Frontend Technologies*: React, Typescript, Redux, HTML, CSS.
+**Frontend Technologies**: React, Typescript, Redux, HTML, CSS.
 
-*Backend Technologies*: Java, Kotlin, Spring Boot, Javalin, Python, Jupyter notebooks, FastAPI, SQL.
+**Backend Technologies**: Java, Kotlin, Spring Boot, Javalin, Python, Jupyter notebooks, FastAPI, SQL.
 
-*Tools, Ecosystems and Methodologies*: Git, Docker, REST APIs, CI/CD, Azure DevOps, AWS, Agile, Scrum.
+**Tools, Ecosystems and Methodologies**: Git, Docker, REST APIs, CI/CD, Azure DevOps, AWS, Agile, Scrum.
 
 If you have the time, please take a look at a few of my public projects.
 
