@@ -4,10 +4,9 @@ Please, _stay a while and listen_ 🕯️
 
 Things I currently enjoy more than I should:
 
-- Systems Design and Interaction 
-- Design Patterns
-- API Design and Consumation
-- Fresh Air 😉
+- Systems Design, Interaction and Patterns.
+- API Design and Consumation.
+- Fresh Air 😉.
 
 Technologies I am proficient with:
 
