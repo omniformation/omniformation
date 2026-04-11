@@ -1,13 +1,8 @@
 ## Hello there, Dear visitor 😊✨
 
-Please...🎶 _stay a while and listen_ 🕯️
+I'm a Software Engineer with focus on fullstack.
 
-Things I currently enjoy more than I should:
-
-- Systems Design and Interaction.
-- Development and Consumption of Rest APIs and Websocket APIs.
-- Design Patterns.
-- Fresh Air 😉.
+I enjoy working on taking ideas from scratch and realising them into fully fledged software products.
 
 Technologies I am proficient with:
 
